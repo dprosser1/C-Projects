@@ -1,0 +1,2 @@
+#define NUMCHILDLOOPS 4
+#define NUMSECS 3
